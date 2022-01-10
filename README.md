@@ -54,5 +54,5 @@ https://app.calliope.pro/companies/1172/reports
 
 In addition, Allure Reports plugin was imported. You can view it locally.
 
-assignment-api-tests/build/reports/allure-report
-assignment-ui-tests/build/reports/allure-report
+-assignment-api-tests/build/reports/allure-report
+-assignment-ui-tests/build/reports/allure-report
