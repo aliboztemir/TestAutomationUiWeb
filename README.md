@@ -42,6 +42,9 @@ You will need:
 - IntelliJ (Or another Java IDE)
 ```
 
+In order to execute the automation suite navigate to the Project directory within a Terminal/CMD window and run the command: **'mvn clean test'**. OR
+**'gradle clean test'**
+
 # Test Reports 
 
 https://www.calliope.pro/
@@ -49,4 +52,7 @@ https://www.calliope.pro/
 https://app.calliope.pro/companies/1172/reports
 
 
+In addition, Allure Reports plugin was imported. You can view it locally.
 
+assignment-api-tests/build/reports/allure-report
+assignment-ui-tests/build/reports/allure-report
